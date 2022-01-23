@@ -5,9 +5,9 @@
 3. Prompts user to choose X or O 
 4. aks to make a move 1-9 
 
-      1 | 2 | 3
-      4 | 5 | 6
-      7 | 8 | 9
+ ###     1 | 2 | 3
+ ###     4 | 5 | 6
+ ###     7 | 8 | 9
       
 6. declare the winner and/or draw 
 7. Prompt to continue to game
